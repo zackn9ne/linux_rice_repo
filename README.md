@@ -7,6 +7,12 @@ a repo to rice linux.. I'm doing fedora
 logout
 `    pkill -KILL -u username`
 
+# config i3 once you log in
+
 log back in choosing i3, I like the win key for the super key
+
+edit your `~/.config/i3/config`
+
+reload your i3 config ` $mod+Shift+c`
 
 # rice your terminal next
