@@ -15,4 +15,6 @@ edit your `~/.config/i3/config`
 
 reload your i3 config ` $mod+Shift+c`
 
+# install trydactyl for firefox
+
 # rice your terminal next
