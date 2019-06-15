@@ -15,6 +15,10 @@ edit your `~/.config/i3/config`
 
 reload your i3 config ` $mod+Shift+c`
 
+# go online in i3
+
+`nmcli device wifi connect APname password`
+
 # rice firefox
 
 install trydactyl for firefox
